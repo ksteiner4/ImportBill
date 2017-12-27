@@ -1,0 +1,10 @@
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb

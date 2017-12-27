@@ -1,0 +1,20 @@
+c:\users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+c:\users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+c:\users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+c:\users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+c:\users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+c:\users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+c:\users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+c:\users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ksteiner\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ksteiner\source\repos\Import To Quickbooks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache

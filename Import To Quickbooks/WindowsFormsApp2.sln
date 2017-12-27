@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Import Bills to QB", "WindowsFormsApp2\Import Bills to QB.csproj", "{2B87ACFF-750D-44A4-ADB8-4947E4F52878}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{8071EAA7-E93E-4EBA-A02F-07CF4AA00E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B87ACFF-750D-44A4-ADB8-4947E4F52878}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2B87ACFF-750D-44A4-ADB8-4947E4F52878}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{2B87ACFF-750D-44A4-ADB8-4947E4F52878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B87ACFF-750D-44A4-ADB8-4947E4F52878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8071EAA7-E93E-4EBA-A02F-07CF4AA00E0C}.Debug|Any CPU.ActiveCfg = Release
+		{8071EAA7-E93E-4EBA-A02F-07CF4AA00E0C}.Debug|Any CPU.Build.0 = Release
+		{8071EAA7-E93E-4EBA-A02F-07CF4AA00E0C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9E926D0-06CD-4232-9AC4-8BEEE6DDF237}
+	EndGlobalSection
+EndGlobal
